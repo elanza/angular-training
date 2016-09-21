@@ -1,0 +1,20 @@
+{
+  "name": "angular-training",
+  "homepage": "https://github.com/elanza/angular-training",
+  "authors": [
+    "ernestlanza@gmail.com"
+  ],
+  "description": "Angular 1 Training",
+  "main": "index",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
